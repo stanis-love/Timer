@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="colon">:</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="cancel">Cancel</string>
+    <string name="cont">Continue</string>
+    <string name="cancel_info">to cancel the timer long press on the button above</string>
+    <string name="zero">0</string>
+</resources>
